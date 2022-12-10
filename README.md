@@ -1,2 +1,2 @@
 # Todo-list
-![alt text](https://github.com/geekyshow1/reactplan/blob/main/screenshot.JPG)
+![alt text](https://github.com/AnukalpParihar/Todo-list-app/blob/main/Screenshot%20(11).png)
